@@ -12,7 +12,7 @@ Je suis actuellement étudiant à **EPITECH**, spécialisé en **Business & Tech
 - 💼 **Stage chez GAYA Bike** (2025) - Assistant E-commerce et digital
 - 🌍 **Multilingue**: Français (natif), Anglais (bilingue - TOEIC 895), Espagnol (intermédiaire), Japonais (débutant)
 - 🏀 Passionné par le basketball, la musique, la photographie et la cuisine
-- 📍 Basé à Carrière Sur Seine, France
+- 📍 Basé en Ile de France, France
 
 ## 💻 Technologies & Outils
 
