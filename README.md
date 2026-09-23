@@ -1,81 +1,195 @@
-# 👋 Salut, je suis Kane Abdoul !
+<!-- =============================== -->
+
+<!--         HEADER / HERO           -->
+
+<!-- =============================== -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Business+%26+Technology+Manager;D%C3%A9veloppeur+Full-Stack;Community+Manager;Passionn%C3%A9+d'Innovation" alt="Typing SVG" />
-</div>
 
-## 🚀 À propos de moi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:7C3AED&height=220&section=header&text=Kane%20Abdoul&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Business%20%26%20Technology%20Manager%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-Je suis actuellement étudiant à **EPITECH**, spécialisé en **Business & Technology Manager**. Passionné par l'innovation technologique et le développement web, je combine mes compétences en business et en développement pour créer des solutions impactantes.
+<br/>
 
-- 🎓 **Étudiant à EPITECH** (2023-2028) - Business & Technology Manager
-- 💼 **Stage chez GAYA Bike** (2025) - Assistant E-commerce et digital
-- 🌍 **Multilingue**: Français (natif), Anglais (bilingue - TOEIC 895), Espagnol (intermédiaire), Japonais (débutant)
-- 🏀 Passionné par le basketball, la musique, la photographie et la cuisine
-- 📍 Basé en Ile de France, France
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+digital+experiences.;Turning+ideas+into+products.;Business+%C3%97+Technology+%C3%97+Creativity." alt="Typing SVG" />
 
-## 💻 Technologies & Outils
+<br/><br/>
 
-### Développement
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Design & Créativité
-![Adobe](https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
-### Outils & Productivité
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meardagoat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=8B5CF6" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meardagoat&theme=tokyonight&hide_border=true&background=1A1B27&ring=6366F1&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meardagoat&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1" alt="Top Languages" />
-</div>
-
-## 🎨 Centres d'intérêt
-
-- 🏀 **Basketball** - Sport et coaching
-- 🎵 **Musique** - Écoute et découverte
-- 📷 **Photographie** - Création et édition
-- 🍳 **Cuisine** - Exploration culinaire
-
-## 📫 Me contacter
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-KaneAbdoulPro1%40outlook.com-6366F1?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:KaneAbdoulPro1@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitez-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-kane-abdoul.vercel.app)
-[![Phone](https://img.shields.io/badge/T%C3%A9l%C3%A9phone-06.28.60.14.13-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0628601413)
+<a href="https://portfolio-kane-abdoul.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:KaneAbdoulPro1@outlook.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=microsoftoutlook&logoColor=7C3AED" />
+</a>
 
 </div>
 
-## 💡 Citation favorite
+---
 
-> "L'innovation distingue un leader d'un suiveur." - Steve Jobs
+# 👋 À propos
+
+```text
+KANE ABDOUL
+──────────────────────────────────────────
+
+🎓  EPITECH — Business & Technology Manager
+💻  Full-Stack Developer
+🚀  Passionné par l'innovation digitale
+📍  Île-de-France, France
+
+Je combine business, technologie et créativité
+pour concevoir des expériences et produits numériques.
+```
+
+### 🚀 Mon parcours
+
+|    | Expérience                                                |
+| -- | --------------------------------------------------------- |
+| 🎓 | **EPITECH** · Business & Technology Manager · 2023 → 2028 |
+| 💼 | **GAYA Bike** · Assistant E-commerce & Digital · 2025     |
+| 🌍 | Français · Anglais · Espagnol · Japonais                  |
+
+---
+
+# 🛠️ Stack & Technologies
+
+### Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,tailwind&theme=dark" />
+</p>
+
+### Design & Creative
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=notion,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=meardagoat&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=9CA3AF&icon_color=7C3AED&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=meardagoat&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meardagoat&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=9CA3AF" />
+
+</div>
+
+---
+
+# 🎯 Ce qui m'intéresse
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Technology
+
+Développement web, produits digitaux, architecture et nouvelles technologies.
+
+</td>
+<td width="50%">
+
+### 📈 Business
+
+E-commerce, stratégie digitale, produit et transformation numérique.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Creative
+
+UI/UX, photographie, création visuelle et identité digitale.
+
+</td>
+<td width="50%">
+
+### 🏀 Personal
+
+Basketball, musique, cuisine et découverte de nouvelles cultures.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📌 Currently
+
+```diff
++ Exploring modern web technologies
++ Building personal projects
++ Growing in Business & Technology
++ Looking for ambitious collaborations
+```
+
+---
+
+# 🌐 Me retrouver
+
+<div align="center">
+
+<a href="https://portfolio-kane-abdoul.vercel.app">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-111827?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="mailto:KaneAbdoulPro1@outlook.com">
+  <img src="https://img.shields.io/badge/✉️%20Email-111827?style=for-the-badge&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"L'innovation distingue un leader d'un suiveur."*
+> — Steve Jobs
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=meardagoat&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=meardagoat&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+### Thanks for stopping by 👋
+
+<sub>Let's build something meaningful.</sub>
+
 </div>
 
-<div align="center">
-  
-### 🌟 Merci de visiter mon profil ! N'hésitez pas à me contacter pour des collaborations ou opportunités.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:111827&height=120&section=footer" width="100%"/>
 
-</div>
-
+<!--
+  GitHub: @meardagoat
+  Portfolio: portfolio-kane-abdoul.vercel.app
+-->
